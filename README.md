@@ -96,14 +96,15 @@ The Canon ImageClass 2200 Advanced Copier clearly dominates the sales charts, si
 The Superstore analysis reveals a distinct seasonal sales pattern, with peak sales in November and lower sales in early months. Consumer segments drive sales, while the Home Office segment, with fewer sales but higher profit per sale, holds potential. Corporate contracts play a vital role in revenue.
 
 ## Recommendations
-1.	Leverage seasonal trends for targeted promotions.
-2.	Tailor strategies to customer segments.
-3.	Focus on cost control and margin optimization.
-4.	Explore expansion and market penetration.
-5.	Implement customer retention strategies.
-6.	Prioritize data-driven decision-making.
-7.	Stay competitive with continuous analysis and adaptation.
+- Leverage seasonal trends for targeted promotions.
+- Tailor strategies to customer segments.
+- Focus on cost control and margin optimization.
+- Explore expansion and market penetration.
+- Implement customer retention strategies.
+- Prioritize data-driven decision-making.
+- Stay competitive with continuous analysis and adaptation.
 
+--
 
 # CHEERS! 😄
 
