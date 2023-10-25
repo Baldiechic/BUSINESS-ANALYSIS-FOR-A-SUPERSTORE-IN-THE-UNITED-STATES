@@ -46,7 +46,7 @@ Analysis of the yearly sales data from 2014 to 2017 in Excel leverages various s
 
 
 
-##Which Region is the Sales Champion?
+## Which Region is the Sales Champion?
 
 The West region of the United States generates higher sales due to a combination of factors. It boasts economic prosperity, high population density, thriving tech and innovation hubs, significant tourism, unique cultural and lifestyle factors, influential real estate markets, and the presence of major entertainment and media industries. Effective marketing, competition, and favourable climate also contribute to the region's strong sales performance. These elements collectively position the Western U.S. as a vital area for business and retail operations, driving increased consumer spending and sales.
 
@@ -70,7 +70,7 @@ The analysis of segments within the Superstore reveals that the Consumer segment
 ![](prbysegment.jpg)
 
 
-##Are there any noticeable seasonal Sales trend?
+## Are there any noticeable seasonal Sales trend?
 
 The sales trend analysis indicates seasonal fluctuations, with sales typically lower from January to July, gradually increasing in August, experiencing a dip in October, and a substantial increase in November. February consistently records the lowest sales. This trend aligns with seasonal shopping patterns, likely influenced by events like holiday shopping in November and a post-holiday slump in January and February.
 
