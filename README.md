@@ -105,7 +105,7 @@ The Superstore analysis reveals a distinct seasonal sales pattern, with peak sal
 7.	Stay competitive with continuous analysis and adaptation.
 
 
-#CHEERS!
+# CHEERS! 😄
 
 
 
