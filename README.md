@@ -27,6 +27,7 @@ In this GitHub repository, I've delved deep into the performance of a United Sta
 6.	Total Number of Transactions
 
 **_Image below represents key performance indicators and excel functions and formulas used_**
+---
 ![](kpi.jpg)
 
 ## Skills / Concepts Demonstrated
