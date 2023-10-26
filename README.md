@@ -81,7 +81,7 @@ The sales trend analysis indicates seasonal fluctuations, with sales typically l
 
 The revenue trend suggests an annual sales increase, with 2017 recording the highest sales. It's highly likely that this growth will continue into 2018, indicating a positive trajectory. The lowest sales were in 2015, marking a significant improvement in subsequent years, indicative of the business's overall upward trend.
 
-![](revenuebyyear.jpg)
+![](revenuebyyear.png)
 
 
 
